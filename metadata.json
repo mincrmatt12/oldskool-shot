@@ -1,0 +1,8 @@
+{
+  "name": "Old Skool Screenshot",
+  "description": "Re-exports various parts of the old screenshot UI under a new D-Bus API for use in keybinds",
+  "uuid": "oldskoolshot@mm12.xyz",
+  "shell-version": [
+    "49"
+  ]
+}
